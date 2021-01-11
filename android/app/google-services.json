@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749839187932",
+    "project_id": "loginbase-dcbe7",
+    "storage_bucket": "loginbase-dcbe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749839187932:android:bfe7261db0aa65d85dd919",
+        "android_client_info": {
+          "package_name": "com.loginbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749839187932-ck3v5npvgun1eetp4g7uh0ksddptk8g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOP4aaz5s-JRH820FlCSX9I3RW8t_pPXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749839187932-ck3v5npvgun1eetp4g7uh0ksddptk8g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
