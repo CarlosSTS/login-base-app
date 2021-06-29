@@ -9,12 +9,11 @@ O app contém os seguintes módulos
 * Todas as telas tem funcionalidades com o firebase 
 
 ## páginas
-![Foto do App](https://github.com/CarlosSTS/loginBase/blob/master/gitProject.gif)
+![Foto do App login](https://github.com/CarlosSTS/loginBase/blob/master/images/login.png)
+![Foto do App criarConta](https://github.com/CarlosSTS/loginBase/blob/master/images/create.png)
 
 ## páginas
-![Foto do App](https://github.com/CarlosSTS/loginBase/blob/master/Screen%20Shot%202021-01-10%20at%2021.37.36.png)
-
-
+![Foto do App](https://github.com/CarlosSTS/loginBase/blob/master/images/auth.png)
 
 ## Testando
 RODANDO O PROJETO
@@ -22,8 +21,6 @@ RODANDO O PROJETO
 * yarn start => para inicializar o projeto
 * yarn android => para executar o projeto no emulador android
 * yarn ios => Para executar no emulador iOS
-
-****
 
 ## Feito por
 
