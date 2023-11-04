@@ -1,4 +1,4 @@
-# loginBase
+# Login-base-app
  Autenticação de login,cadastro e logout usando firebase e ContextAPI
 
 ## módulos
