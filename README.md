@@ -12,8 +12,8 @@ O app contém os seguintes módulos
 * [Ir para o LinkedIn](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_aplica%C3%A7%C3%A3o-criada-em-react-native-com-firebase-activity-6754205092993368064-u7pz)
 
 ## páginas
-![Foto do App login](https://github.com/CarlosSTS/loginBase/blob/master/images/login.png)
-![Foto do App criarConta](https://github.com/CarlosSTS/loginBase/blob/master/images/create.png)
+![Foto do App login](https://github.com/CarlosSTS/loginBase/blob/master/images/login.jpeg)
+![Foto do App criarConta](https://github.com/CarlosSTS/loginBase/blob/master/images/create.jpeg)
 
 ## páginas
 ![Foto do App](https://github.com/CarlosSTS/loginBase/blob/master/images/auth.png)
